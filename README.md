@@ -4,7 +4,7 @@ This project was for learning the control systems required to balance a simple 2
 
 included are 6 files
 
-vvvvvvvvvvvvvvv
+
 model.slx - Matlab simscape multibody simulation of the system. You can play with the block diagram here.
 
 generate_lqr_data.m - This file generates LQR K gain values for a series of L0's and saves them to a lookup table for later use.
